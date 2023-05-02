@@ -1,0 +1,63 @@
+﻿h1, h2, h3, h4, h5, h6, p {
+    margin: 2rem 2rem 2rem 0;
+}
+
+html, body {
+    max-width: 700px;
+    margin: auto;
+    height: 100%;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#about-me {
+    display: flex;
+    flex-direction: row;
+}
+
+#about-me-text {
+    max-width: 400px;
+}
+
+.portrait {
+    width: 300px;
+}
+
+.project-title h3 {
+    display: inline;
+}
+
+#projects img {
+    width: 500px;
+}
+
+#projects p {
+    max-width: 400px;
+}
+
+#main-nav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+#main-nav ul li {
+    list-style-type: none;
+    padding-left: 2rem;
+}
+
+#skills-container > * {
+    font-size: 2em;
+    width: 2em;
+    margin-top: var(--spacing-1);
+}
+
+#skills-container {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
