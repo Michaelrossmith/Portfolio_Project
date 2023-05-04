@@ -87,3 +87,25 @@ footer p {
     width: 150px;
     margin: auto;
 }
+
+
+
+
+/* link styling */
+
+a {
+    text-decoration: none;
+    color: #BEBDBF;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: darkgray;
+}
