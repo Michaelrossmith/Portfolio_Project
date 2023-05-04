@@ -1,21 +1,26 @@
-﻿<Properties>
+﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Styles/styles.css">
+  <MonoDevelop.Ide.Workbench ActiveDocument="index.html">
     <Files>
-      <File FileName="index.html" Line="35" Column="35" />
-      <File FileName="styles.css" Line="4" Column="18" />
+      <File FileName="index.html" Line="20" Column="15" />
+      <File FileName="contact.html" Line="21" Column="14" />
+      <File FileName="Styles/styles.css" Line="29" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Portfolio_Website" expanded="True">
-            <Node name="Solution Items" expanded="True" />
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/reececoetzer/Documents/Code Projects/Portfolio_Website/contact.html" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
